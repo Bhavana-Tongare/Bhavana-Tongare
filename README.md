@@ -1,7 +1,5 @@
 # Bhavana Tongare
 
-> Premium GitHub Profile README (starter)
-
 ## About Me
 B.Tech graduate in Artificial Intelligence and Data Science with a strong interest in Machine Learning, AI-powered applications, Full Stack Development, and Software Engineering.
 
@@ -55,11 +53,11 @@ Jan 2026 – Mar 2026
 Replace `YOUR_USERNAME` with your GitHub username.
 
 ```md
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Bhavana-Tongare&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Bhavana-Tongare&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavana-Tongare&layout=compact&theme=tokyonight)
 ```
 
 ---
