@@ -1,3 +1,6 @@
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24,30&text=Bhavana%20Tongare&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Machine%20Learning&descAlignY=58"/>
+</p>
 # Bhavana Tongare
 
 ## About Me
@@ -57,7 +60,7 @@ Jan 2026 – Mar 2026
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavana-Tongare&layout=compact&theme=tokyonight)
 
-## Contribution Snake
+
 
 ![Snake](https://raw.githubusercontent.com/Bhavana-Tongare/Bhavana-Tongare/output/github-contribution-grid-snake.svg)
 ```
