@@ -50,8 +50,6 @@ Jan 2026 – Mar 2026
 
 ## GitHub Stats
 
-Replace `YOUR_USERNAME` with your GitHub username.
-
 ```md
 ![Stats](https://github-readme-stats.vercel.app/api?username=Bhavana-Tongare&show_icons=true&theme=tokyonight)
 
