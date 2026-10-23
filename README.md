@@ -1,103 +1,103 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24,30&text=Bhavana%20Tongare&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20%20|%20Machine%20Learning&descAlignY=58"/>
-</p>
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning;Full+Stack;Always+Learning+New+Technologies"/>
+  <img src="./assets/bhavana-hero.svg" alt="Bhavana Tongare — Data Analytics, Data Science, AI/ML" width="100%">
 </p>
 
-## About Me
-B.Tech graduate in Artificial Intelligence and Data Science with a strong interest in Machine Learning, AI-powered applications, Full Stack Development, and Software Engineering.
+## 👋 About
 
-- AI/ML Engineer
-- Open to AI, ML and Software Engineering roles
+I'm **Bhavana Balasaheb Tongare**, a B.Tech graduate in **Artificial Intelligence & Data Science** from **K.K. Wagh Institute of Engineering Education and Research, Nashik**.
+
+I work across **data analysis, NLP and applied AI** with Python, SQL and Pandas. I like turning raw data into dashboards and tools people can actually use, from a sentiment analysis dashboard on thousands of product reviews to a real-time crowd-safety platform.
+
+- 🧪 Currently focused on **Data Analytics, Data Science and AI/ML** roles
+- 🏢 Project Intern at **Hindustan Aeronautics Limited (HAL)**, Jan – Mar 2026
+- 📍 Nashik, India
 
 ---
 
-## Tech Stack
+## 🏆 Experience & Highlights
 
-**Languages:** Python, SQL, JavaScript, TypeScript
+**Project Intern — Hindustan Aeronautics Limited (HAL)** · *Jan 2026 – Mar 2026*
 
-**Frontend:** React, HTML, CSS, Tailwind CSS
+- Built a dashboard tracking total, available, issued, overdue, calibrated and returned tools.
+- Designed web pages with ASP.NET, .NET Framework, HTML/CSS and built backend components in Python.
+- Managed Oracle SQL / PL-SQL queries supporting a tool management system.
 
-**Backend:** ASP.NET, REST APIs
+**From my projects**
 
-**Database:** Supabase, Oracle PL/SQL, SQLite
+- Cleaned 10,000 Flipkart reviews down to 9,464 and validated a DistilBERT sentiment model against star ratings (**89.6% agreement**).
+- Deployed a live, interactive Streamlit dashboard.
+- Built Python REST APIs serving real-time YOLOv8 crowd-density data to a monitoring dashboard.
 
-**Tools:** Git, GitHub, VS Code, Android Studio, Figma
-## AI & Machine Learning
+<!-- Certifications: none could be verified from the resume or repositories.
+     Add real ones here, e.g.  - **Certificate name** — Issuer, Year -->
 
-| Domain | Technologies |
-|---------|--------------|
-| Machine Learning | Scikit-learn, Pandas, NumPy |
-| Deep Learning | TensorFlow, PyTorch |
-| NLP | OpenAI API, Dialogflow |
-| Computer Vision | YOLOv8 |
-| Data Analysis | Matplotlib, Jupyter |
+---
+
+## 🚀 Selected Projects
+
+### 🛒 Customer Sentiment Analysis Dashboard — Flipkart Product Reviews
+Sentiment analysis of Flipkart product reviews with a pretrained Hugging Face DistilBERT model and an interactive dashboard that surfaces problem products and common complaints.
+
+- Cleaned and analysed reviews with Pandas, then validated model labels against star ratings.
+- Found the products with the highest share of negative reviews and the most common complaint phrases.
+- Dashboard with filters, KPI cards and five tabs: Overview, Products, Complaints, Model quality, Insights.
+
+`Python` `Pandas` `Hugging Face` `DistilBERT` `Scikit-learn` `Plotly` `Streamlit`
+
+🔗 [Live dashboard](https://my-sentiment-dashboard-26-30.streamlit.app/) · 💻 [Source code](https://github.com/Bhavana-Tongare/customer-sentiment-dashboard)
+
+### 🛕 Digital Kumbh — Pilgrim Safe Haven
+A web and mobile platform for safety and crowd coordination at large gatherings such as Kumbh Mela: real-time crowd-density monitoring, SOS alerts, Lost & Found, multilingual support (English, Hindi, Marathi) and an authority dashboard.
+
+- Built Python REST APIs delivering real-time crowd-density data to the monitoring dashboard.
+- Developed SOS alerting and Lost & Found modules with multilingual data handling in Supabase.
+
+`Python` `YOLOv8` `React` `TypeScript` `Tailwind CSS` `Supabase` `REST APIs`
+
+💻 [Source code](https://github.com/Bhavana-Tongare/Digital-Kumbh)
+
+### 🧠 AI Mental Wellness Platform
+A conversational wellness app with mood tracking and journaling, SQLite storage, authentication and real-time data synchronisation. *(Source code is not public.)*
+
+`Python` `Android Studio` `SQLite` `Dialogflow` `OpenAI API`
+
+### 📚 More
+- 💻 [codsoft-task](https://github.com/Bhavana-Tongare/codsoft-task) — AI task exercises (rule-based chatbot, Tic-Tac-Toe AI, recommendation system) in Jupyter Notebook.
+
+---
+
+## 🛠️ Skills
+
+| Category | Tools & Technologies |
+|:--|:--|
+| **Programming & Backend** | `Python` `REST APIs` `JSON` `Debugging` |
+| **Data & Databases** | `SQL` `PostgreSQL (Supabase)` `Oracle SQL / PL-SQL` `SQLite` |
+| **Data Analysis** | `Pandas` `NumPy` `Data Cleaning` `Exploratory Data Analysis` |
+| **NLP & ML** | `Hugging Face Transformers` `Sentiment Analysis` `Scikit-learn` `YOLOv8` `OpenAI API` `Dialogflow` |
+| **Visualization** | `Matplotlib` `Seaborn` `Plotly` `Streamlit` |
+| **Frontend** | `HTML` `CSS` `JavaScript` `React` `TypeScript` `Tailwind CSS` |
+| **Tools** | `Git` `GitHub` `VS Code` `Jupyter Notebook` `Google Colab` `Android Studio` |
+
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,html,css,tailwind,dotnet,mysql,sqlite,git,github,vscode,figma,androidstudio,tensorflow,pytorch"/>
-
+  <img src="https://raw.githubusercontent.com/Bhavana-Tongare/Bhavana-Tongare/output/github-contribution-grid-snake.svg" alt="Snake animation eating through my GitHub contribution graph" width="100%">
 </p>
----
 
-## Featured Projects
-
-### Digital Kumbh
-- React, TypeScript, Tailwind CSS, Supabase, YOLOv8
-- Crowd Management Platform
-
-### AI Mental Wellness Platform
-- Android Studio
-- SQLite
-- Dialogflow
-- OpenAI API
+<sub>Generated from my real contribution data by a GitHub Action that refreshes every 12 hours.</sub>
 
 ---
 
-## Experience
+## 🤝 Let's Connect
 
-### Project Intern — Hindustan Aeronautics Limited (HAL)
-Jan 2026 – Mar 2026
-
-- ASP.NET UI Development
-- Oracle SQL / PL/SQL
-- Enterprise Applications
-
----
-
-## GitHub Stats
-
-```md
-![Stats](https://github-readme-stats.vercel.app/api?username=Bhavana-Tongare&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=Bhavana-Tongare&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavana-Tongare&layout=compact&theme=tokyonight)
-
-![Snake](https://raw.githubusercontent.com/Bhavana-Tongare/Bhavana-Tongare/output/github-contribution-grid-snake.svg)
-```
-
----
-
-## Connect
 <p align="center">
-
-<a href="mailto:bhavanatongare@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bhavana-tongare-73a6b5263">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Bhavana-Tongare">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/bhavana-tongare-73a6b5263"><b>LinkedIn</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Bhavana-Tongare"><b>GitHub</b></a>
 </p>
+
 <p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=6,12,20,24,30"/>
-
+  <img src="./assets/bhavana-footer.svg" alt="Thanks for visiting" width="100%">
 </p>
